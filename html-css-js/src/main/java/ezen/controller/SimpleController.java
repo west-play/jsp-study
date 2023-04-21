@@ -15,7 +15,7 @@ public class SimpleController extends HttpServlet {
 	throws ServletException, IOException {
 		processRequest(request, response);
 	}
-
+//test
 	public void doPost(HttpServletRequest request, 
 			HttpServletResponse response)
 	throws ServletException, IOException {
